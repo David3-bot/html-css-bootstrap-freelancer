@@ -17,10 +17,17 @@
     color: white;
 }
 
-.form-control{
+.form-control {
     border-top: 0;
     border-radius: 0;
     border-left: 0;
     border-right: 0;
 }
 
+.sbam {
+    color: #1abc9c;
+}
+
+.nav-link {
+    color: white;
+}
